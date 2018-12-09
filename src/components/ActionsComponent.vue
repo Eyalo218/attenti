@@ -54,6 +54,8 @@ export default {
 <style>
 button {
   cursor: pointer;
+  background: none;
+  border: none;
 }
 
 button:disabled {

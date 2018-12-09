@@ -24,7 +24,4 @@ export default {};
 </script>
 
 <style>
-.header {
-  margin: 20px, 0;
-}
 </style>
