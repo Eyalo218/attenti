@@ -1,0 +1,86 @@
+/* Helpers */
+.body{
+    font-family: "Open sans regular";
+  }
+  .flex {
+      display: flex;
+    }
+    
+    .space-around {
+      justify-content: space-around;
+    }
+    
+    .space-between {
+      justify-content: space-between;
+    }
+    
+    .column {
+      flex-direction: column;
+    }
+    
+    .column-reverse {
+      flex-direction: column-reverse;
+    }
+    
+    .row-reverse {
+      flex-direction: row-reverse;
+    }
+    
+    .align-center {
+      align-items: center;
+    }
+    
+    .center {
+      justify-content: center;
+    }
+    
+    .flex-end {
+      justify-content: flex-end;
+    }
+    
+    .flex-wrap {
+      flex-wrap: wrap;
+    }
+    
+    .align-end {
+      align-items: flex-end;
+    }
+  
+    .align-between{
+        align-content: space-between;
+    }
+    
+    .relative{
+      position: relative;
+    }
+    
+    .absolute{
+      position: absolute;
+    }
+  
+    .title{
+      text-align: center;
+      font-size: 35pt;
+      color: #333333;
+      margin:10px 0 20px 0;
+    }
+    .subTitle{
+      text-align: center;
+      font-size: 24pt;
+      color:#333333;
+      margin:20px 0 10px 0;
+    }
+  
+    .inputText{
+      font-size:14pt;
+      color:#333333;
+    }
+  
+    .inputInfo{
+      font-size:14pt;
+      color:#808080;
+    }
+
+    .icon{
+      height:15px;
+    }
